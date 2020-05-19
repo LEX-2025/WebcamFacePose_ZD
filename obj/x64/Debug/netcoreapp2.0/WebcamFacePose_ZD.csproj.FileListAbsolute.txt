@@ -1,0 +1,14 @@
+Q:\ZDCODE\ProjectZD\WebcamFacePose_ZD\obj\x64\Debug\netcoreapp2.0\WebcamFacePose_ZD.AssemblyInfoInputs.cache
+Q:\ZDCODE\ProjectZD\WebcamFacePose_ZD\obj\x64\Debug\netcoreapp2.0\WebcamFacePose_ZD.AssemblyInfo.cs
+Q:\ZDCODE\ProjectZD\WebcamFacePose_ZD\bin\x64\Debug\netcoreapp2.0\WebcamFacePose_ZD.deps.json
+Q:\ZDCODE\ProjectZD\WebcamFacePose_ZD\bin\x64\Debug\netcoreapp2.0\WebcamFacePose_ZD.runtimeconfig.json
+Q:\ZDCODE\ProjectZD\WebcamFacePose_ZD\bin\x64\Debug\netcoreapp2.0\WebcamFacePose_ZD.runtimeconfig.dev.json
+Q:\ZDCODE\ProjectZD\WebcamFacePose_ZD\bin\x64\Debug\netcoreapp2.0\WebcamFacePose_ZD.dll
+Q:\ZDCODE\ProjectZD\WebcamFacePose_ZD\obj\x64\Debug\netcoreapp2.0\WebcamFacePose_ZD.genruntimeconfig.cache
+Q:\ZDCODE\ProjectZD\WebcamFacePose_ZD\bin\x64\Debug\netcoreapp2.0\DlibDotNetNative.dll
+Q:\ZDCODE\ProjectZD\WebcamFacePose_ZD\bin\x64\Debug\netcoreapp2.0\DlibDotNetNativeDnn.dll
+Q:\ZDCODE\ProjectZD\WebcamFacePose_ZD\obj\x64\Debug\netcoreapp2.0\WebcamFacePose_ZD.csprojAssemblyReference.cache
+Q:\ZDCODE\ProjectZD\WebcamFacePose_ZD\bin\x64\Debug\netcoreapp2.0\WebcamFacePose_ZD.pdb
+Q:\ZDCODE\ProjectZD\WebcamFacePose_ZD\obj\x64\Debug\netcoreapp2.0\WebcamFacePose_ZD.dll
+Q:\ZDCODE\ProjectZD\WebcamFacePose_ZD\obj\x64\Debug\netcoreapp2.0\WebcamFacePose_ZD.pdb
+Q:\ZDCODE\ProjectZD\WebcamFacePose_ZD\obj\x64\Debug\netcoreapp2.0\WebcamFacePose_ZD.csproj.CoreCompileInputs.cache

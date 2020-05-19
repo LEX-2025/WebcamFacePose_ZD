@@ -1,0 +1,272 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "WebcamFacePose_ZD/1.0.0": {
+        "dependencies": {
+          "DlibDotNet": "19.18.0.20200429",
+          "OpenCvSharp4.Windows": "4.3.0.20200421"
+        },
+        "runtime": {
+          "WebcamFacePose_ZD.dll": {}
+        }
+      },
+      "DlibDotNet/19.18.0.20200429": {
+        "runtime": {
+          "lib/netstandard2.0/DlibDotNet.dll": {
+            "assemblyVersion": "19.18.0.0",
+            "fileVersion": "19.18.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/centos-x64/native/.keepfolder": {
+            "rid": "centos-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/centos-x64/native/libDlibDotNetNative.so": {
+            "rid": "centos-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/centos-x64/native/libDlibDotNetNativeDnn.so": {
+            "rid": "centos-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/.keepfolder": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libDlibDotNetNative.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libDlibDotNetNativeDnn.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/.keepfolder": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libDlibDotNetNative.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libDlibDotNetNativeDnn.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/.keepfolder": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/DlibDotNetNative.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "19.18.0.0"
+          },
+          "runtimes/win-x64/native/DlibDotNetNativeDnn.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "19.18.0.0"
+          },
+          "runtimes/win-x86/native/.keepfolder": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/DlibDotNetNative.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "19.18.0.0"
+          },
+          "runtimes/win-x86/native/DlibDotNetNativeDnn.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "19.18.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.1.0": {},
+      "Microsoft.Win32.SystemEvents/4.7.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "OpenCvSharp4/4.3.0.20200421": {
+        "dependencies": {
+          "System.Drawing.Common": "4.7.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.7.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/OpenCvSharp.Blob.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/OpenCvSharp.Extensions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/OpenCvSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "OpenCvSharp4.runtime.win/4.3.0.20200421": {
+        "runtimeTargets": {
+          "runtimes/win-x64/native/OpenCvSharpExtern.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/opencv_videoio_ffmpeg430_64.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/OpenCvSharpExtern.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/opencv_videoio_ffmpeg430.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "OpenCvSharp4.Windows/4.3.0.20200421": {
+        "dependencies": {
+          "OpenCvSharp4": "4.3.0.20200421",
+          "OpenCvSharp4.runtime.win": "4.3.0.20200421"
+        }
+      },
+      "System.Drawing.Common/4.7.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.Win32.SystemEvents": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "4.0.0.1",
+            "fileVersion": "4.6.26919.2"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.1",
+            "fileVersion": "4.6.26919.2"
+          },
+          "runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.1",
+            "fileVersion": "4.6.26919.2"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.7.1": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.6.0",
+            "fileVersion": "4.700.20.12001"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebcamFacePose_ZD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DlibDotNet/19.18.0.20200429": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JAPtCjGifIdrkfn1ifAPq0xi2Yf5zH9DCG0JfrTg4TXlazCXXHI2a7TSGiNaMQe6SIIQ+1aPlaKz0rAcDM3r0A==",
+      "path": "dlibdotnet/19.18.0.20200429",
+      "hashPath": "dlibdotnet.19.18.0.20200429.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
+      "path": "microsoft.netcore.platforms/3.1.0",
+      "hashPath": "microsoft.netcore.platforms.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mtVirZr++rq+XCDITMUdnETD59XoeMxSpLRIII7JRI6Yj0LEDiO1pPn0ktlnIj12Ix8bfvQqQDMMIF9wC98oCA==",
+      "path": "microsoft.win32.systemevents/4.7.0",
+      "hashPath": "microsoft.win32.systemevents.4.7.0.nupkg.sha512"
+    },
+    "OpenCvSharp4/4.3.0.20200421": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AEtMGyoL2jFLM1B4QNVdIW4Pt3Lr7c3xLjkLcqHv+bcYettR5c55IKffP63PnDAj/Vrm7PomKzQq3emsRTyEqA==",
+      "path": "opencvsharp4/4.3.0.20200421",
+      "hashPath": "opencvsharp4.4.3.0.20200421.nupkg.sha512"
+    },
+    "OpenCvSharp4.runtime.win/4.3.0.20200421": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sPugs1We/pf6OO8nP/hN0Vrb6KNEAlbeF0+v01Zy84eoj6EwTeTd4mxVmWCIkd26Y80CG2veli+BlWWTFQhsbA==",
+      "path": "opencvsharp4.runtime.win/4.3.0.20200421",
+      "hashPath": "opencvsharp4.runtime.win.4.3.0.20200421.nupkg.sha512"
+    },
+    "OpenCvSharp4.Windows/4.3.0.20200421": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FN3HIpkwTzMcs32Ih3mMWIhJaGuayYF97plCW0TT/MeOctDaw5Lz4KL2iFzAfI9G80jM3TLGX0nLbrjRpySwsQ==",
+      "path": "opencvsharp4.windows/4.3.0.20200421",
+      "hashPath": "opencvsharp4.windows.4.3.0.20200421.nupkg.sha512"
+    },
+    "System.Drawing.Common/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v+XbyYHaZjDfn0ENmJEV1VYLgGgCTx1gnfOBcppowbpOAriglYgGCvFCPr2EEZyBvXlpxbEsTwkOlInl107ahA==",
+      "path": "system.drawing.common/4.7.0",
+      "hashPath": "system.drawing.common.4.7.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zOHkQmzPCn5zm/BH+cxC1XbUS3P4Yoi3xzW7eRgVpDR2tPGSzyMZ17Ig1iRkfJuY0nhxkQQde8pgePNiA7z7TQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.7.1",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+    }
+  }
+}

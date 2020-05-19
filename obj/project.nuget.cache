@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "+BCFtgNwe9H5c65CtRM3ScYV9peAzMcReEJyj2u5deUyR1W1be2MzUFPu4kQlhu0msweWRkOshgJ9/DWbzH0cQ==",
+  "success": true,
+  "projectFilePath": "Q:\\ZDCODE\\ProjectZD\\WebcamFacePose_ZD\\WebcamFacePose_ZD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SUSTech\\.nuget\\packages\\dlibdotnet\\19.18.0.20200429\\dlibdotnet.19.18.0.20200429.nupkg.sha512",
+    "C:\\Users\\SUSTech\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\SUSTech\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\SUSTech\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\SUSTech\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\SUSTech\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\SUSTech\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\SUSTech\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\SUSTech\\.nuget\\packages\\opencvsharp4\\4.3.0.20200421\\opencvsharp4.4.3.0.20200421.nupkg.sha512",
+    "C:\\Users\\SUSTech\\.nuget\\packages\\opencvsharp4.runtime.win\\4.3.0.20200421\\opencvsharp4.runtime.win.4.3.0.20200421.nupkg.sha512",
+    "C:\\Users\\SUSTech\\.nuget\\packages\\opencvsharp4.windows\\4.3.0.20200421\\opencvsharp4.windows.4.3.0.20200421.nupkg.sha512",
+    "C:\\Users\\SUSTech\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\SUSTech\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
